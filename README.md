@@ -25,7 +25,7 @@
 <p>Then, open the <code>index.html</code> file in your preferred web browser.</p>
 
 <h2>Preview</h2>
-<img src="C:\Users\mdj16\Desktop\Pictures\Screenshots\Screenshot 2024-05-02 002657.png" alt="pre image">
+<img src="img/pre_image.png" alt="pre image">
 
 <h2>Usage</h2>
 
