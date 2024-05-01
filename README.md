@@ -12,9 +12,7 @@
 <ul>
     <li>Generates strong and secure passwords.</li>
     <li>Customizable options for password length and character types.</li>
-    <li>User-friendly interface.</li>
-    
-    
+    <li>User-friendly interface.</li>    
 </ul>
 
 <h2>Installation</h2>
@@ -25,6 +23,9 @@
 </code></pre>
 
 <p>Then, open the <code>index.html</code> file in your preferred web browser.</p>
+
+<h2>Preview</h2>
+<img src="C:\Users\mdj16\Desktop\Pictures\Screenshots\Screenshot 2024-05-02 002657.png" alt="pre image">
 
 <h2>Usage</h2>
 
